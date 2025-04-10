@@ -2,9 +2,7 @@ from bs4 import BeautifulSoup
 import re
 import requests
 
-allsite = ["https://enghamzasalem.com/",
-           "https://www.ionixxtech.com/", "https://sumatosoft.com", "https://4irelabs.com/", "https://www.leewayhertz.com/",
-           "https://stackoverflow.com", "https://www.vardot.com/en", "http://www.clickjordan.net/", "https://vtechbd.com/"]
+allsite = ["https://companysa.net/"]
 emails = []
 tels = []
 for l in allsite:
